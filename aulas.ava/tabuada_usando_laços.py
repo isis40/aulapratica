@@ -8,7 +8,7 @@ while(tabuada <= 10):
         i += 1
     tabuada += 1
 ###############################################################################################
-tabuada de 2 for
+#tabuada de 2 for
 for i in range(1,11):
     print('tabuada do {}:'.format(i))
     for j in range(1, 11):
