@@ -1,2 +1,2 @@
 # aulapratica
-este repósitorio é um  teste
+repositório com aulas e exercicios  da faculdade!
