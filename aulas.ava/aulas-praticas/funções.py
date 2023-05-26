@@ -6,4 +6,5 @@ def fatorial(num=0):
         fat*=i
     return fat
 
-print(fatorial(3))
+x= int(input('Digite um valor para calcular o fatorial:\n- '))
+print('{}! = {}'.format(x,fatorial(x)))
