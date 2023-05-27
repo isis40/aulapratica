@@ -1,6 +1,4 @@
-print('Bem-vindo(a) a lanchonete da Isis Paiva de Sousa Lima')
-
-
+#Função que cria a vizualização do Menu
 def Menu():
     print('*********************Cardápio*********************')
     print('| Código |       Descrição          |  Valor  |')
@@ -15,6 +13,7 @@ def Menu():
 
 
 # programa principal
+print('Bem-vindo(a) a lanchonete da Isis Paiva de Sousa Lima')
 preco = 0.00
 while True:
     Menu()
